@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:0, CCTV-1
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
+#EXTINF:0, CCTV-2
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
+#EXTINF:0, CCTV-3
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
+#EXTINF:0, CCTV-4
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/XMTcctv-4hd/index.m3u8
+#EXTINF:0, CCTV-5
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
+#EXTINF:0, CCTV-6
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
+#EXTINF:0, CCTV-7
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
+#EXTINF:0, CCTV-8
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
+#EXTINF:0, CCTV-9
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv-9hd/index.m3u8
+#EXTINF:0, CCTV-10
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8
+#EXTINF:0, CCTV-11
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
+#EXTINF:0, CCTV-12
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv12hd8m/index.m3u8
+#EXTINF:0, CCTV-13
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
+#EXTINF:0, CCTV-14
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/index.m3u8
+#EXTINF:0, CCTV-15
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
+#EXTINF:0, CCTV-16
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
+#EXTINF:0, 安徽卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
+#EXTINF:0, 东方卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfwshd8m/index.m3u8
+#EXTINF:0, 高清电影
+http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8
+#EXTINF:0, 河南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hnwshd8m/index.m3u8
+#EXTINF:0, 经济生活
+http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
+#EXTINF:0, 武术世界
+http://120.210.193.151:8006/120000001002/XMTwushu/index.m3u8
+#EXTINF:0, 浙江卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
