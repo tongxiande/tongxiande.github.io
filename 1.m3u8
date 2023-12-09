@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-name="CCTV-1" tvg-logo="http://ahydpic.bbtv.cn/20200930/2020093009582216014311024835207.png" 
+#EXTINF:0,CCTV-,http://ahydpic.bbtv.cn/20200930/2020093009582216014311024835207.png"
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
 #EXTINF:0, CCTV-2
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
