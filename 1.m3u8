@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #EXTM3U
 #EXTINF:0, CCTV-1
+=======
+#EXTM3U 
+#EXTINF:0,CCTV-1
+>>>>>>> 4d06b0a6eb921d88bc00a0b92205e6c1a18d8906
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
 #EXTINF:0, CCTV-2
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
@@ -280,5 +285,10 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
 #EXTINF:0, 57
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
+<<<<<<< HEAD
 #EXTINF:0, 58
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
+=======
+#EXTINF:0,58
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
+>>>>>>> 4d06b0a6eb921d88bc00a0b92205e6c1a18d8906
