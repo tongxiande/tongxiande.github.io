@@ -1,294 +1,285 @@
-<<<<<<< HEAD
-#EXTM3U
-#EXTINF:0, CCTV-1
-=======
+
 #EXTM3U 
-#EXTINF:0,CCTV-1
->>>>>>> 4d06b0a6eb921d88bc00a0b92205e6c1a18d8906
+#EXTINF:0, CCTV-1
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
-#EXTINF:0, CCTV-2
+#EXTINF:0,  CCTV-2
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
-#EXTINF:0, CCTV-3
+#EXTINF:0,  CCTV-3
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
-#EXTINF:0, CCTV-4
+#EXTINF:0,  CCTV-4
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/XMTcctv-4hd/index.m3u8
-#EXTINF:0, CCTV-5
+#EXTINF:0,  CCTV-5
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
-#EXTINF:0, CCTV-6
+#EXTINF:0,  CCTV-6
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
-#EXTINF:0, CCTV-7
+#EXTINF:0,  CCTV-7
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
-#EXTINF:0, CCTV-8
+#EXTINF:0,  CCTV-8
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
-#EXTINF:0, CCTV-9
+#EXTINF:0,  CCTV-9
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv-9hd/index.m3u8
-#EXTINF:0, CCTV-10
+#EXTINF:0,  CCTV-10
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8
-#EXTINF:0, CCTV-11
+#EXTINF:0,  CCTV-11
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
-#EXTINF:0, CCTV-12
+#EXTINF:0,  CCTV-12
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv12hd8m/index.m3u8
-#EXTINF:0, CCTV-13
+#EXTINF:0,  CCTV-13
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
-#EXTINF:0, CCTV-14
+#EXTINF:0,  CCTV-14
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/index.m3u8
-#EXTINF:0, CCTV-15
+#EXTINF:0,  CCTV-15
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
-#EXTINF:0, CCTV-16
+#EXTINF:0,  CCTV-16
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
-#EXTINF:0, CCTV-17
+#EXTINF:0,  CCTV-17
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8
 <<<<<<< HEAD
-#EXTINF:0, CCTV-5+
+#EXTINF:0,  CCTV-5+
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
-#EXTINF:0, 安徽卫视
-=======
 #EXTINF:0,  安徽卫视
+=======
+#EXTINF:0,   安徽卫视
 >>>>>>> parent of 19d9a17 (更新 1.m3u8)
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
-#EXTINF:0, 安徽影视
+#EXTINF:0,  安徽影视
 http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
-#EXTINF:0, 安徽经济
+#EXTINF:0,  安徽经济
 http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
-#EXTINF:0, 安徽科教
+#EXTINF:0,  安徽科教
 http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
-#EXTINF:0, 安徽综艺
+#EXTINF:0,  安徽综艺
 http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
-#EXTINF:0, 安徽公共
+#EXTINF:0,  安徽公共
 http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
-#EXTINF:0, 安徽国际
+#EXTINF:0,  安徽国际
 http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
-#EXTINF:0, 合肥新闻
+#EXTINF:0,  合肥新闻
 http://120.210.193.151:8006/120000001002/XMThfxw/1.m3u8
-#EXTINF:0, 湖南卫视
+#EXTINF:0,  湖南卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
-#EXTINF:0, 东方卫视
+#EXTINF:0,  东方卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfwshd8m/index.m3u8
-#EXTINF:0, 北京卫视
+#EXTINF:0,  北京卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/bjwshd8m/index.m3u8
-#EXTINF:0, 浙江卫视
+#EXTINF:0,  浙江卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
-#EXTINF:0, 江苏卫视
+#EXTINF:0,  江苏卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jswshd8m/index.m3u8
-#EXTINF:0, 天津卫视
+#EXTINF:0,  天津卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/tjwshd8m/index.m3u8
-#EXTINF:0, 山东卫视
+#EXTINF:0,  山东卫视
 http://120.210.193.151:8006/120000001002/XMTsdwshd/index.m3u8
-#EXTINF:0, 辽宁卫视
+#EXTINF:0,  辽宁卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/lnwshd8m/index.m3u8
-#EXTINF:0, 深圳卫视
+#EXTINF:0,  深圳卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/szwshd8m/index.m3u8
-#EXTINF:0, 江西卫视
+#EXTINF:0,  江西卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jxws8m/index.m3u8
-#EXTINF:0, 贵州卫视
+#EXTINF:0,  贵州卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gzwshd8m/index.m3u8
-#EXTINF:0, 吉林卫视
+#EXTINF:0,  吉林卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jlwshd8m/index.m3u8
-#EXTINF:0, 广东卫视
+#EXTINF:0,  广东卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gdwshd8m/index.m3u8
-#EXTINF:0, 湖北卫视
+#EXTINF:0,  湖北卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hubeiws8m/index.m3u8
-#EXTINF:0, 河北卫视
+#EXTINF:0,  河北卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hbws/index.m3u8
-#EXTINF:0, 陕西卫视
+#EXTINF:0,  陕西卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shanxiws/index.m3u8
-#EXTINF:0, 重庆卫视
+#EXTINF:0,  重庆卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cqws8m/index.m3u8
-#EXTINF:0, 四川卫视
+#EXTINF:0,  四川卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/scwshd/index.m3u8
-#EXTINF:0, 广西卫视
+#EXTINF:0,  广西卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gxwshd8m/index.m3u8
-#EXTINF:0, 陕西卫视
+#EXTINF:0,  陕西卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sxwssd4m/index.m3u8
-#EXTINF:0, 甘肃卫视
+#EXTINF:0,  甘肃卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gswssd4m/index.m3u8
-#EXTINF:0, 宁夏卫视
+#EXTINF:0,  宁夏卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nxwssd4m/index.m3u8
-#EXTINF:0, 青海卫视
+#EXTINF:0,  青海卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/qhwssd4m/index.m3u8
-#EXTINF:0, 海南卫视
+#EXTINF:0,  海南卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hainanwshd8m/index.m3u8
-#EXTINF:0, 新疆卫视
+#EXTINF:0,  新疆卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/xjwssd4m/index.m3u8
-#EXTINF:0, 兵团卫视
+#EXTINF:0,  兵团卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/btwssd4m/index.m3u8
-#EXTINF:0, 黑龙江卫视
+#EXTINF:0,  黑龙江卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hljwshd8m/index.m3u8
-#EXTINF:0, 云南卫视
+#EXTINF:0,  云南卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ynwshd8m/index.m3u8
-#EXTINF:0, 东南卫视
+#EXTINF:0,  东南卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dnwshd8m/index.m3u8
-#EXTINF:0, 河南卫视
+#EXTINF:0,  河南卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hnwshd8m/index.m3u8
-#EXTINF:0, 中国教育-1
+#EXTINF:0,  中国教育-1
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
-#EXTINF:0, 中国教育-4
+#EXTINF:0,  中国教育-4
 http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
-#EXTINF:0, 厦门卫视
+#EXTINF:0,  厦门卫视
 http://120.210.193.151:8006/120000001002/XMTxmws/index.m3u8
-#EXTINF:0, 三沙卫视
+#EXTINF:0,  三沙卫视
 http://120.210.193.151:8006/120000001002/XMTssws/index.m3u8
-#EXTINF:0, 中国教育-2
+#EXTINF:0,  中国教育-2
 http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
-#EXTINF:0, 内蒙古卫视
+#EXTINF:0,  内蒙古卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nmgws2d5m/index.m3u8
-#EXTINF:0, 哈哈炫动
+#EXTINF:0,  哈哈炫动
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/index.m3u8
-#EXTINF:0, 动漫秀场
+#EXTINF:0,  动漫秀场
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dmxc8m/index.m3u8
-#EXTINF:0, 游戏风云
+#EXTINF:0,  游戏风云
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/yxfy8m/index.m3u8
-#EXTINF:0, 东方财经
+#EXTINF:0,  东方财经
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfcjhd8m/index.m3u8
-#EXTINF:0, 卡酷卡通
+#EXTINF:0,  卡酷卡通
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8
-#EXTINF:0, 嘉佳卡通
+#EXTINF:0,  嘉佳卡通
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jjkt2d5m/index.m3u8
-#EXTINF:0, 都市剧场
+#EXTINF:0,  都市剧场
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
-#EXTINF:0, 东方购物上星
+#EXTINF:0,  东方购物上星
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfgwsxhd8m/index.m3u8
-#EXTINF:0, 法制天地
+#EXTINF:0,  法制天地
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
-#EXTINF:0, 时尚生活
+#EXTINF:0,  时尚生活
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shss8m/index.m3u8
-#EXTINF:0, 中国天气
+#EXTINF:0,  中国天气
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgqxhd4mc/index.m3u8
-#EXTINF:0, 金色学堂
+#EXTINF:0,  金色学堂
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jingsepd8m/index.m3u8
-#EXTINF:0, 金鹰卡通
+#EXTINF:0,  金鹰卡通
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8
-#EXTINF:0, 足球频道
+#EXTINF:0,  足球频道
 http://120.210.193.151:8006/120000001002/XMTzqpd/index.m3u8
-#EXTINF:0, 优购物
+#EXTINF:0,  优购物
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-yougw/index.m3u8
-#EXTINF:0, 央广购物
+#EXTINF:0,  央广购物
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD-1500k-576P-jiayougw/1.m3u8
-#EXTINF:0, CCTV-1（高清）
+#EXTINF:0,  CCTV-1（高清）
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
-#EXTINF:0, 高清电影
+#EXTINF:0,  高清电影
 http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8
-#EXTINF:0, 河南卫视
+#EXTINF:0,  河南卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hnwshd8m/index.m3u8
-#EXTINF:0, 武术世界
+#EXTINF:0,  武术世界
 http://120.210.193.151:8006/120000001002/XMTwushu/index.m3u8
-#EXTINF:0, 1
+#EXTINF:0,  1
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jswshd8m/index.m3u8
-#EXTINF:0, 2
+#EXTINF:0,  2
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jxws8m/index.m3u8
-#EXTINF:0, 3
+#EXTINF:0,  3
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gzwshd8m/index.m3u8
-#EXTINF:0, 4
+#EXTINF:0,  4
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cqws8m/index.m3u8
-#EXTINF:0, 5
+#EXTINF:0,  5
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hainanwshd8m/index.m3u8
-#EXTINF:0, 6
+#EXTINF:0,  6
 http://120.210.193.151:8006/120000001002/XMTsdwshd/index.m3u8
-#EXTINF:0, 7
+#EXTINF:0,  7
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfwshd8m/index.m3u8
-#EXTINF:0, 8
+#EXTINF:0,  8
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8
-#EXTINF:0, 9
-#EXTINF:0, 10
+#EXTINF:0,  9
+#EXTINF:0,  10
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/bjwshd8m/index.m3u8
-#EXTINF:0, 11
+#EXTINF:0,  11
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/tjwshd8m/index.m3u8
-#EXTINF:0, 12
+#EXTINF:0,  12
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/lnwshd8m/index.m3u8
-#EXTINF:0, 13
+#EXTINF:0,  13
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gdwshd8m/index.m3u8
-#EXTINF:0, 14
+#EXTINF:0,  14
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hbws/index.m3u8
-#EXTINF:0, 15
+#EXTINF:0,  15
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/scwshd/index.m3u8
-#EXTINF:0, 16
+#EXTINF:0,  16
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sxwssd4m/index.m3u8
-#EXTINF:0, 17
+#EXTINF:0,  17
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dnwshd8m/index.m3u8
-#EXTINF:0, 18
+#EXTINF:0,  18
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hnwshd8m/index.m3u8
-#EXTINF:0, 19
+#EXTINF:0,  19
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
-#EXTINF:0, 20
+#EXTINF:0,  20
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8
-#EXTINF:0, 21
+#EXTINF:0,  21
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/szwshd8m/index.m3u8
-#EXTINF:0, 22
+#EXTINF:0,  22
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jlwshd8m/index.m3u8
-#EXTINF:0, 23
+#EXTINF:0,  23
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hubeiws8m/index.m3u8
-#EXTINF:0, 24
+#EXTINF:0,  24
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hljwshd8m/index.m3u8
-#EXTINF:0, 25
+#EXTINF:0,  25
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gxwshd8m/index.m3u8
-#EXTINF:0, 26
+#EXTINF:0,  26
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ynwshd8m/index.m3u8
-#EXTINF:0, 27
+#EXTINF:0,  27
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8
-#EXTINF:0, 28
+#EXTINF:0,  28
 http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
-#EXTINF:0, 29
+#EXTINF:0,  29
 http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
-#EXTINF:0, 30
+#EXTINF:0,  30
 http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
-#EXTINF:0, 31
+#EXTINF:0,  31
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
-#EXTINF:0, 32
+#EXTINF:0,  32
 http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
-#EXTINF:0, 33
+#EXTINF:0,  33
 http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
-#EXTINF:0, 34
+#EXTINF:0,  34
 http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
-#EXTINF:0, 35
+#EXTINF:0,  35
 http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
-#EXTINF:0, 36
+#EXTINF:0,  36
 http://120.210.193.151:8006/120000001002/XMThfxw/1.m3u8
-#EXTINF:0, 37
+#EXTINF:0,  37
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
-#EXTINF:0, 38
+#EXTINF:0,  38
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
-#EXTINF:0, 39
+#EXTINF:0,  39
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
-#EXTINF:0, 40
+#EXTINF:0,  40
 http://120.210.193.151:8006/000000001001/3000000020000011529/3000000020000011529.m3u8
-#EXTINF:0, 41
+#EXTINF:0,  41
 http://120.210.193.151:8006/000000001001/3000000020000011528/3000000020000011528.m3u8
-#EXTINF:0, 42
+#EXTINF:0,  42
 http://120.210.193.151:8006/000000001001/3000000020000031315/3000000020000031315.m3u8
-#EXTINF:0, 43
+#EXTINF:0,  43
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
-#EXTINF:0, 44
+#EXTINF:0,  44
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
-#EXTINF:0, 45
+#EXTINF:0,  45
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv9hd4mc/index.m3u8
-#EXTINF:0, 46
+#EXTINF:0,  46
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8
-#EXTINF:0, 47
+#EXTINF:0,  47
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
-#EXTINF:0, 48
+#EXTINF:0,  48
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv12hd8m/index.m3u8
-#EXTINF:0, 49
+#EXTINF:0,  49
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
-#EXTINF:0, 50
+#EXTINF:0,  50
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/index.m3u8
-#EXTINF:0, 51
+#EXTINF:0,  51
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
-#EXTINF:0, 52
+#EXTINF:0,  52
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
-#EXTINF:0, 53
+#EXTINF:0,  53
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8
-#EXTINF:0, 54
+#EXTINF:0,  54
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
-#EXTINF:0, 55
+#EXTINF:0,  55
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
-#EXTINF:0, 56
+#EXTINF:0,  56
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
-#EXTINF:0, 57
+#EXTINF:0,  57
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
-<<<<<<< HEAD
-#EXTINF:0, 58
+#EXTINF:0,  58
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
-=======
-#EXTINF:0,58
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
->>>>>>> 4d06b0a6eb921d88bc00a0b92205e6c1a18d8906
