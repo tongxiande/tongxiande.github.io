@@ -33,6 +33,8 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4m
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
 #EXTINF:0, CCTV-17
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8
+#EXTINF:0, CCTV-5+
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
 #EXTINF:0, 安徽卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
 #EXTINF:0, 安徽影视
