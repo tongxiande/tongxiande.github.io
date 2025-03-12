@@ -2,37 +2,37 @@
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="CCTV1" group-title="央视”, CCTV-1蓝光
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
-#EXTINF:0, CCTV-2
+#EXTINF:0, CCTV2
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
-#EXTINF:0, CCTV-3
+#EXTINF:0, CCTV3
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
-#EXTINF:0, CCTV-4
+#EXTINF:0, CCTV4
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/XMTcctv-4hd/index.m3u8
-#EXTINF:0, CCTV-5
+#EXTINF:0, CCTV5
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
-#EXTINF:0, CCTV-6
+#EXTINF:0, CCTV6
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
-#EXTINF:0, CCTV-7
+#EXTINF:0,  CCTV7
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
-#EXTINF:0, CCTV-8
+#EXTINF:0,  CCTV8
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
-#EXTINF:0, CCTV-9
+#EXTINF:0,  CCTV9
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv-9hd/index.m3u8
-#EXTINF:0, CCTV-10
+#EXTINF:0,  CCTV10
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8
-#EXTINF:0, CCTV-11
+#EXTINF:0,  CCTV11
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
-#EXTINF:0, CCTV-12
+#EXTINF:0,  CCTV12
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv12hd8m/index.m3u8
-#EXTINF:0, CCTV-13
+#EXTINF:0,  CCTV13
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
-#EXTINF:0, CCTV-14
+#EXTINF:0,  CCTV14
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/index.m3u8
-#EXTINF:0, CCTV-15
+#EXTINF:0,  CCTV15
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
-#EXTINF:0, CCTV-16
+#EXTINF:0,  CCTV16
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
-#EXTINF:0, CCTV-17
+#EXTINF:0,  CCTV17
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8
 #EXTINF:0, 安徽导视
 http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
@@ -40,7 +40,7 @@ http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
 #EXTINF:0, 安徽影视
 http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
-#EXTINF:0, 安徽经济
+#EXTINF:0, 安徽经济生活
 http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
 #EXTINF:0, 安徽科教
 http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
@@ -122,11 +122,11 @@ http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
 #EXTINF:0, 中国教育-4
 http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
-#EXTINF:0, CCTV-4
+#EXTINF:0,  CCTV4
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8
-#EXTINF:0, CCTV-5
+#EXTINF:0,  CCTV5
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8
-#EXTINF:0, CCTV-9
+#EXTINF:0,  CCTV9
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv9hd4mc/index.m3u8
 #EXTINF:0, 哈哈炫动
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/index.m3u8
@@ -186,27 +186,27 @@ http://120.210.193.151:8006/120000001002/XMTwenwu/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTklcd/index.m3u8
 #EXTINF:0, 茶频道
 http://120.210.193.151:8006/120000001002/XMTcha/index.m3u8
-#EXTINF:0, CCTV电视指南
+#EXTINF:0, 电视指南
 http://120.210.193.151:8006/120000001002/XMTdszn/index.m3u8
-#EXTINF:0, CCTV央视文化精品
+#EXTINF:0, 央视文化精品
 http://120.210.193.151:8006/120000001002/XMTysjp/index.m3u8
-#EXTINF:0, CCTV女性时尚
+#EXTINF:0, 女性时尚
 http://120.210.193.151:8006/120000001002/XMTnxss/index.m3u8
-#EXTINF:0, CCTV兵器科技
+#EXTINF:0, 兵器科技
 http://120.210.193.151:8006/120000001002/XMTbqsd/index.m3u8
-#EXTINF:0, CCTV风云足球
+#EXTINF:0, 风云足球
 http://120.210.193.151:8006/120000001002/XMTfyzq/index.m3u8
-#EXTINF:0, CCTV高尔夫·网球
+#EXTINF:0, 高尔夫网球
 http://120.210.193.151:8006/120000001002/XMTgolf/index.m3u8
-#EXTINF:0, CCTV央视台球
+#EXTINF:0, 央视台球
 http://120.210.193.151:8006/120000001002/XMTystq/index.m3u8
-#EXTINF:0, CCTV世界地理
+#EXTINF:0, 世界地理
 http://120.210.193.151:8006/120000001002/XMTsjdl/index.m3u8
-#EXTINF:0, CCTV怀旧剧场
+#EXTINF:0, 怀旧剧场
 http://120.210.193.151:8006/120000001002/XMThjjc/index.m3u8
-#EXTINF:0, CCTV风云剧场
+#EXTINF:0, 风云剧场
 http://120.210.193.151:8006/120000001002/XMTfyjc/index.m3u8
-#EXTINF:0, CCTV第一剧场
+#EXTINF:0, 第一剧场
 http://120.210.193.151:8006/120000001002/XMTdyjc/index.m3u8
-#EXTINF:0, CCTV风云音乐
+#EXTINF:0, 风云音乐
 http://120.210.193.151:8006/120000001002/XMTfyyy/index.m3u8
